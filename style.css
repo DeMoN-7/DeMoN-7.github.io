@@ -1,3 +1,31 @@
-h1{
-    color: brown;
+#div2{
+    height: 60px;
+    background-color: rgb(46, 46, 46);
+}
+a{
+    margin: 0%;
+    font-size: 25px;
+    text-decoration: none;
+    color:white;
+    margin-right:200px;
+    padding: 0%;
+}
+#logo{
+    color: orange;
+
+}
+#cart{
+    color: white;
+}
+#contact{
+    /* margin-left: 200px; */
+}
+#search{
+    background-color: orange;
+    height: 22px;
+}
+button{
+    /* border: ; */
+    background-color: grey;
+    border: 0px;
 }
