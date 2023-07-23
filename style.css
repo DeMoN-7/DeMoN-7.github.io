@@ -1,6 +1,10 @@
-#div2{
-    height: 60px;
-    background-color: rgb(46, 46, 46);
+body{
+    background-color: rgb(14, 14, 14);}
+#navbar{
+    margin: 0%;
+    padding: 0%;
+    height: 30px;
+    background-color: rgb(12, 12, 12);
 }
 a{
     margin: 0%;
@@ -20,6 +24,7 @@ a{
 #contact{
     /* margin-left: 200px; */
 }
+
 #search{
     background-color: orange;
     height: 22px;
