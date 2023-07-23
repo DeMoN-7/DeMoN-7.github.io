@@ -5,6 +5,7 @@ body{
     padding: 0%;
     height: 30px;
     background-color: rgb(12, 12, 12);
+    margin-bottom: 25px;
 }
 a{
     margin: 0%;
@@ -33,4 +34,29 @@ button{
     /* border: ; */
     background-color: grey;
     border: 0px;
+}
+#i1{
+    height: 250px;
+    width: 250px;
+    margin-right: 10px;
+}
+#i2{
+    margin-right: 10px;
+    height: 250px;
+    width: 250px;
+}
+#i3{
+    height: 250px;
+    margin-right: 10px;
+    width: 250px;
+}
+#products{
+    color: white;
+}
+#price{
+    margin-bottom: 0%;
+}
+#date{
+    color:green;
+    margin-top: 0%;
 }
